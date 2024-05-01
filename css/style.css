@@ -1,0 +1,28 @@
+.IndexTitle{
+    text-align: center;
+    padding: 30px;
+}
+
+#IndexHeader{
+    text-align: left;
+    margin-left: 30px;
+    margin-right:90px;
+}
+
+#IndexText{
+    text-align: left;
+    margin-left: 60px;
+    margin-right:90px;
+    margin-bottom: 25px;
+}
+
+#IndexText h4{
+    font-size: 22px;
+}
+
+#IndexListItem{
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 25px;
+}
